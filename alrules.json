@@ -1,0 +1,11 @@
+{
+    "name": "MyPayCheq App Rules",
+    "description": "Set of rules for the Ha-Shem MyPayCheq Application",
+    "rules": [
+        {
+            "id": "AL0132",
+            "action": "Hidden",
+            "justification": "False warning"
+        }
+    ]
+}
